@@ -1,3 +1,3 @@
-# Solutions to the assignmeent of the Course Logic in Computer Science  
+# Solutions to the assignment of the Course Logic in Computer Science  
 ## BITS Pilani Hyderabad Campus
 #Postfix to Infix converter
